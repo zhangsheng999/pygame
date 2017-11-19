@@ -18,7 +18,8 @@
 ### 1,绘制一个矩形。为了增添一些乐趣，咱们这次绘制一个可以移动的矩形，而不只是单单的在屏幕中间绘制。  首先，需要设置pos_x, pos_y 两个变量来记录矩形的位置信息，然后在创建一对速度变量（vel_x,vel_y），在while循环内不断的更新矩形的位置。当矩形到达屏幕边缘的时候，将速度变量取反，这样就可以产生碰撞的效果了。
 [代码](https://github.com/zhangsheng999/1111/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3%20(2).txt)
 
-游戏截图
+##### 游戏截图
+
 ![](http://images2015.cnblogs.com/blog/798142/201511/798142-20151115170154759-1135845346.png)
 
 
@@ -26,8 +27,8 @@
 
 [代码](https://github.com/zhangsheng999/1111/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3%20(3).txt)
 
-游戏动图
-![](https://github.com/zhangsheng999/1111/blob/master/The%20Pie%20Game%20-%20Press%201%2C2%2C3%2C4%202017_11_19%2019_42_01%20(2).mp4)
+
+[游戏动图](https://github.com/zhangsheng999/1111/blob/master/The%20Pie%20Game%20-%20Press%201%2C2%2C3%2C4%202017_11_19%2019_42_01%20(2).mp4)
 
 
 ### 3,打飞机游戏  
